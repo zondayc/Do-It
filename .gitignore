@@ -1,0 +1,13 @@
+build/
+dist/
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+.env
+.env.*
+local.properties
+macos/AppIcon.iconset/
+*.log
+.DS_Store
